@@ -1,0 +1,8 @@
+echo "# Project_automation" >> README.md
+git initTradução
+git adicionar README.md
+git commit -m "primeiro commit"
+ramo git -M principal
+git remoto adicionar origem https://github.com/fernandoaicoders/Project_automation.git
+git push -u origem principal
+GUIA AUTOMAÇÃO DE XML DE NOTAS FISCAIS DE PRESTAÇÕES DE SERVIÇOS
