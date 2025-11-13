@@ -1,28 +1,11 @@
 # Project Automation
 
-Este repositório foi inicializado com a estrutura mínima para um projeto Python.
+Este repositório contém anotações e entregáveis relacionados ao protótipo de um sistema de análise contábil inspirado em plataformas como Power BI e Nucont.
 
-Conteúdo incluído:
-- README.md
-- .gitignore
-- LICENSE (MIT)
-- pyproject.toml
-- requirements.txt
-- src/project_automation/__init__.py
-- tests/test_placeholder.py
-- .github/workflows/ci.yml
+## Conteúdo
+- `docs/ux_ui_design.md`: especificação completa de UX/UI com fluxos, componentes, indicadores contábeis e recomendações de acessibilidade.
 
-Como começar:
-
-1. Crie e ative um ambiente virtual (recomendado):
-   python -m venv .venv
-   source .venv/bin/activate  # Linux / macOS
-   .\.venv\Scripts\activate  # Windows
-
-2. Instale dependências:
-   pip install -r requirements.txt
-
-3. Rode os testes:
-   pytest
-
-Licença: MIT
+## Como usar
+1. Revise a especificação de design para alinhar requisitos funcionais e visuais.
+2. Crie wireframes no Figma seguindo a hierarquia de informação proposta.
+3. Utilize a lista de indicadores contábeis como referência ao desenvolver dashboards e integrações de dados.
